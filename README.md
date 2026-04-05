@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="120" height="120" />
-  width="120" height="120" />
+  <img src="logo.png" width="160" />
   <h1>DILEZ</h1>
   <p><b>The Master Architect Engine | Version 300</b></p>
   
