@@ -10,22 +10,36 @@
 
 ---
 
-### 🛡️ **Silent Operator Architecture**
-Dilez is not a browser. It is a **deployment framework** designed to strip away the "web" and leave only the "app." Engineered for users who demand a disciplined, focused, and high-value workspace.
+---
 
-### 💎 **V300 Masterclass Features**
-* **Stealth Memory Protocol:** Deploy apps in "Silent Operator Mode" with zero-disk footprint (RAM-only execution).
-* **Asynchronous UI Threading:** A zero-freeze engine that handles heavy background tasks while maintaining a buttery-smooth 60FPS interface.
-* **Cupertino Aesthetics:** Deep 3D drop shadows, segmented control navigation, and iOS-inspired card layouts.
-* **Animated Toast Notifications:** A custom notification system that slides and fades with kinetic easing.
-* **Surgical Ecosystem Control:** A dedicated dashboard to monitor, search, and obliterate installed frameworks with one click.
+### 🏛️ **Executive Overview**
+Dilez is a high-performance deployment framework that bridges the gap between the web and native OS architecture. Designed for **Silent Operators**, it strips away the bloat of traditional browsers and provides a disciplined, high-value workspace.
+
+### 📊 **System Capabilities**
+
+| Feature | Logic Architecture | User Benefit |
+| :--- | :--- | :--- |
+| **Stealth Protocol** | Ephemeral RAM-Only Execution | Absolute privacy; zero disk footprint. |
+| **Asynchronous Engine** | QThread Background Processing | 60FPS UI stability during deployment. |
+| **Cupertino Design** | Frameless Windowing + Drop Shadows | Luxury macOS aesthetic on Linux. |
+| **User-Agent Spoofing** | Multi-Agent Identity Rotation | Bypass Google/Netflix security walls. |
+| **Ecosystem HUD** | Surgical Removal Logic | One-click obliteration of app frameworks. |
 
 ---
 
-### 🚀 **Quick Deployment**
+### 💎 **V300 Masterclass Visuals**
 
-#### **For Operators (Direct Executable)**
-Download the standalone binary from the [Releases](https://github.com/coderwrexx/Dilez/releases) section.
+> "A tool is only as good as the discipline of the person using it."
+
+* **Dynamic Toasting:** Animated feedback system with kinetic easing.
+* **Card-Based UX:** Every input is encased in a pristine, high-contrast container.
+* **Segmented Navigation:** Physical switch-style tab controls for effortless flow.
+
+---
+
+### 🚀 **Deployment Protocols**
+
+#### **Standalone (Recommended)**
+Grab the master executable from the [Releases](https://github.com/coderwrexx/Dilez/releases) section. No dependencies required.
 ```bash
-chmod +x dilez
-./dilez
+chmod +x dilez && ./dilez
